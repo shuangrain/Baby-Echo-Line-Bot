@@ -2,9 +2,9 @@
 
 寶寶Echo：
 
-![alt tag](//img.sofast.info/2016/04/5981e242d13db40a8d40fa351ebc9f55.png)
+![alt tag](https://img.sofast.info/2016/04/5981e242d13db40a8d40fa351ebc9f55.png)
 
-![alt tag](//img.sofast.info/2016/04/96a3be3cf272e017046d1b2674a52bd3-8.jpg)
+![alt tag](https://img.sofast.info/2016/04/96a3be3cf272e017046d1b2674a52bd3-8.jpg)
 
 昨晚看到有人在玩FB ChatBot感覺好好玩
 影片支援：<a href="https://www.facebook.com/D.Weizhe/videos/10208034398169797/">https://www.facebook.com/D.Weizhe/videos/10208034398169797/</a>
