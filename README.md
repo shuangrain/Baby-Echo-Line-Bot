@@ -2,14 +2,12 @@
 
 寶寶Echo：
 
-<img class="alignnone size-full wp-image-204" src="//img.sofast.info/2016/04/5981e242d13db40a8d40fa351ebc9f55.png" alt="yqx0407i" width="360" height="360" />
+![alt tag](//img.sofast.info/2016/04/5981e242d13db40a8d40fa351ebc9f55.png)
 
-<img class="alignnone size-full wp-image-196" src="//img.sofast.info/2016/04/96a3be3cf272e017046d1b2674a52bd3-8.jpg" alt="01" width="385" height="635" />
+![alt tag](//img.sofast.info/2016/04/96a3be3cf272e017046d1b2674a52bd3-8.jpg)
 
 昨晚看到有人在玩FB ChatBot感覺好好玩
 影片支援：<a href="https://www.facebook.com/D.Weizhe/videos/10208034398169797/">https://www.facebook.com/D.Weizhe/videos/10208034398169797/</a>
-
-[iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebook%2Fvideos%2F10208034398169797&amp;width=850&amp;show_text=true&amp;appId=558665094219666&amp;height=500"]
 
 他好像是用node.js在玩的，不過我完全沒有碰過那個東西...
 所以只好轉換個跑道，去找找看有沒有之前接觸過一點點的php範例
