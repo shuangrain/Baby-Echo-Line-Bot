@@ -22,7 +22,7 @@ Line ChatBot的部分就不多說了，請看<a href="http://technews.tw/2016/04
 
 網址：<a href="http://blog.sofast.info/2016/04/寶寶echo-line-chatbot-api-教學-php/">http://blog.sofast.info/2016/04/寶寶echo-line-chatbot-api-教學-php/</a>
 
-# <a href="https://blog.sofast.info/2016/05/line-chatbot-%E5%AF%B6%E5%AF%B6%E5%B0%8F%E5%B9%AB%E6%89%8B-%E7%A9%BA%E6%B0%A3%E5%93%81%E8%B3%AA%E6%9F%A5%E8%A9%A2/">應用 - 台灣空氣品質查詢//</a>
+# <a href="https://blog.sofast.info/2016/05/line-chatbot-%E5%AF%B6%E5%AF%B6%E5%B0%8F%E5%B9%AB%E6%89%8B-%E7%A9%BA%E6%B0%A3%E5%93%81%E8%B3%AA%E6%9F%A5%E8%A9%A2/">應用 - 台灣空氣品質查詢</a>
 
 指令：!空氣 地區
 
