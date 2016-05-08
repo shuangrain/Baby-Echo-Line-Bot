@@ -32,3 +32,10 @@ Line ChatBot的部分就不多說了，請看<a href="http://technews.tw/2016/04
 預覽：
 
 ![alt tag](https://blog.sofast.info/wp-content/uploads/2016/05/messageImage_1462620227535.jpg)
+
+# <a href="https://blog.sofast.info/2016/05/line-chatbot-%E5%AF%B6%E5%AF%B6%E5%B0%8F%E5%B9%AB%E6%89%8B-%E7%84%A1%E7%B7%9A%E7%86%B1%E9%BB%9E%E6%9F%A5%E8%A9%A2/">應用 - 台灣無線熱點查詢</a>
+
+
+預覽：
+
+![alt tag](https://blog.sofast.info/wp-content/uploads/2016/05/01.png)
