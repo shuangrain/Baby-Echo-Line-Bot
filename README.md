@@ -20,7 +20,7 @@ Line ChatBot的部分就不多說了，請看<a href="http://technews.tw/2016/04
 
 # 教學
 
-網址：<a href="http://blog.sofast.info/2016/04/teaching-baby-echo-line-chatbot-api-php/">http://blog.sofast.info/2016/04/寶寶echo-line-chatbot-api-教學-php/</a>
+網址：<a href="https://blog.sofast.info/2016/04/teaching-baby-echo-line-chatbot-api-php/">https://blog.sofast.info/2016/04/teaching-baby-echo-line-chatbot-api-php/</a>
 
 # <a href="https://blog.sofast.info/2016/05/line-chatbot-baby-little-helper-air-quality-queries/">應用 - 台灣空氣品質查詢</a>
 
