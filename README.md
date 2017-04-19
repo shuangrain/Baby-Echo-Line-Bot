@@ -2,9 +2,9 @@
 
 寶寶Echo：
 
-![alt tag](https://blog.sofast.info/wp-content/uploads/2016/04/5981e242d13db40a8d40fa351ebc9f55.png)
+![alt tag](https://blog.exfast.me/wp-content/uploads/2016/04/5981e242d13db40a8d40fa351ebc9f55.png)
 
-![alt tag](https://blog.sofast.info/wp-content/uploads/2016/04/96a3be3cf272e017046d1b2674a52bd3-8.jpg)
+![alt tag](https://blog.exfast.me/wp-content/uploads/2016/04/96a3be3cf272e017046d1b2674a52bd3-8.jpg)
 
 昨晚看到有人在玩FB ChatBot感覺好好玩
 影片支援：<a href="https://www.facebook.com/D.Weizhe/videos/10208034398169797/">https://www.facebook.com/D.Weizhe/videos/10208034398169797/</a>
@@ -20,9 +20,9 @@ Line ChatBot的部分就不多說了，請看<a href="http://technews.tw/2016/04
 
 # 教學
 
-網址：<a href="https://blog.sofast.info/2016/04/teaching-baby-echo-line-chatbot-api-php/">https://blog.sofast.info/2016/04/teaching-baby-echo-line-chatbot-api-php/</a>
+網址：<a href="https://blog.exfast.me/2016/04/teaching-baby-echo-line-chatbot-api-php/">https://blog.exfast.me/2016/04/teaching-baby-echo-line-chatbot-api-php/</a>
 
-# <a href="https://blog.sofast.info/2016/05/line-chatbot-baby-little-helper-air-quality-queries/">應用 - 台灣空氣品質查詢</a>
+# <a href="https://blog.exfast.me/2016/05/line-chatbot-baby-little-helper-air-quality-queries/">應用 - 台灣空氣品質查詢</a>
 
 指令：!空氣 地區
 
@@ -31,11 +31,11 @@ Line ChatBot的部分就不多說了，請看<a href="http://technews.tw/2016/04
 
 預覽：
 
-![alt tag](https://blog.sofast.info/wp-content/uploads/2016/05/messageImage_1462620227535.jpg)
+![alt tag](https://blog.exfast.me/wp-content/uploads/2016/05/messageImage_1462620227535.jpg)
 
-# <a href="https://blog.sofast.info/2016/05/line-helper-chatbot-baby-wi-fi-query/">應用 - 台灣無線熱點查詢</a>
+# <a href="https://blog.exfast.me/2016/05/line-helper-chatbot-baby-wi-fi-query/">應用 - 台灣無線熱點查詢</a>
 
 
 預覽：
 
-![alt tag](https://blog.sofast.info/wp-content/uploads/2016/05/01.png)
+![alt tag](https://blog.exfast.me/wp-content/uploads/2016/05/01.png)
